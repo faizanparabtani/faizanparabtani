@@ -25,6 +25,5 @@ I'm a software engineer with 2+ industrial exposure in backend development, spec
 
 ### 📫 Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/faizanparabtani)
-- GitHub: [GitHub Profile](https://github.com/faizanparabtani)
 
 ⚡ _Always eager to collaborate on exciting projects!_
