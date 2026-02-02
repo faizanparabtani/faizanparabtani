@@ -1,8 +1,5 @@
-## Hi there! I'm Faizan Parabtani 👋
-
-**Rust Developer**
-
+## Hi there! I'm Faizan Parabtani
 ### My Site
 - [Portfolio](https://www.faizanparabtani.com)
 
-⚡ _Always eager to collaborate on exciting projects!_
+_Always eager to collaborate on exciting projects!_
